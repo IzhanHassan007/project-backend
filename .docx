@@ -1,8 +1,0 @@
-2 Types of Syntax:
-- Import - Required
-Common JS - Module JS
-
-"NODEMON"
-- jb bh hamari files reload hoti hen ye server ko restart krdeta h..
-- Dependency & Dev-Dependency:
-dev wo hoti h jis ko hum development k doran use krengy, production m nh ley k jaye gy...  
