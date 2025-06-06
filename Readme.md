@@ -31,3 +31,8 @@ src m 5 folders:
 
 suppose 1 req ai, server sy koi req poch rahy ho, but m aik middleware lagado k aap apni cookies mujhy do m pata lagado ap us req ko leney k ehal ho ya nh
 
+-----------------------------------
+
+npm i mongoose express dotenv
+
+------------------------------------
